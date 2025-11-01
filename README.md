@@ -15,7 +15,24 @@ Model Comparison
 Hyperparameter tuning with Optuna
 <br>
 Performance evaluation using Confusion Matrix and F1-score
-
-<br>
 <br>
 Technologies Used
+<br>
+Python
+<br>
+Pandas,Numpy
+<br>
+Scikit-Learn
+<br>
+Imbalanced-learn (SMOTETomek)
+<br>
+Optuna
+<br>
+Matplotlib,Seaborn
+<br>
+<br>
+Results 
+<br>
+Best-Performing Model : Random Forest 
+Evaluation Metrics : Confusion Matrix,F1-Score
+Achieved High Accuracy
