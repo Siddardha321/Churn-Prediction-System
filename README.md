@@ -31,5 +31,5 @@ Included **data preprocessing**, **feature engineering**, and **class imbalance 
 - **Outcome:** Achieved high accuracy and robust churn prediction performance.  
 
 ---
-Author - Addugula Siddardha
+Author - Addugula Siddardha <br>
 B.Tech - AI & DS (2021-2025)
