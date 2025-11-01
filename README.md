@@ -17,7 +17,7 @@ Hyperparameter tuning with Optuna
 Performance evaluation using Confusion Matrix and F1-score
 <br>
 <br>
-## Technologies Used
+### Technologies Used
 <br>
 Python
 <br>
@@ -32,7 +32,7 @@ Optuna
 Matplotlib,Seaborn
 <br>
 <br>
-## Results 
+### Results 
 <br>
 Best-Performing Model : Random Forest 
 <br>
@@ -40,6 +40,6 @@ Evaluation Metrics : Confusion Matrix,F1-Score
 <br>
 Achieved High Accuracy
 <br>
-
+<br>
 Author - Addugula Siddardha 
 B.Tech - AI & DS Graduate (2021-2025)
