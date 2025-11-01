@@ -2,7 +2,7 @@
 Machine learning project for predicting telecom customer churn using algorithms such as Random Forest, Logistic Regression, and SVM. Included data preprocessing, feature engineering, and class imbalance handling with SMOTETomek. Model performance optimized using Optuna-based hyperparameter tuning and evaluated with confusion matrix and F1-score.
 <br>
 <br>
-Features
+## Features
 <br>
 Data Cleaning and Preprocessing 
 <br>
@@ -16,7 +16,8 @@ Hyperparameter tuning with Optuna
 <br>
 Performance evaluation using Confusion Matrix and F1-score
 <br>
-Technologies Used
+<br>
+## Technologies Used
 <br>
 Python
 <br>
@@ -31,8 +32,14 @@ Optuna
 Matplotlib,Seaborn
 <br>
 <br>
-Results 
+## Results 
 <br>
 Best-Performing Model : Random Forest 
+<br>
 Evaluation Metrics : Confusion Matrix,F1-Score
+<br>
 Achieved High Accuracy
+<br>
+
+Author - Addugula Siddardha 
+B.Tech - AI & DS Graduate (2021-2025)
