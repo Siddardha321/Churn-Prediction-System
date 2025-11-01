@@ -1,4 +1,4 @@
-# 📊 Churn Prediction System
+#  Churn Prediction System
 
 Machine learning project for predicting **telecom customer churn** using algorithms such as **Random Forest**, **Logistic Regression**, and **SVM**.  
 Included **data preprocessing**, **feature engineering**, and **class imbalance handling** with **SMOTETomek**.  
@@ -6,7 +6,7 @@ Model performance was optimized using **Optuna-based hyperparameter tuning** and
 
 ---
 
-## ⚙️ Features
+##  Features
 - Data Cleaning and Preprocessing  
 - Feature Selection and Engineering  
 - Class Imbalance Handling using SMOTETomek  
@@ -16,7 +16,7 @@ Model performance was optimized using **Optuna-based hyperparameter tuning** and
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
@@ -26,10 +26,11 @@ Model performance was optimized using **Optuna-based hyperparameter tuning** and
 
 ---
 
-## 🚀 Results
+##  Results
 - **Best-Performing Model:** Random Forest  
 - **Evaluation Metrics:** Confusion Matrix, F1-Score  
 - **Outcome:** Achieved high accuracy and robust churn prediction performance.  
 
 ---
-
+Author - Addugula Siddardha
+B.Tech - AI & DS (2021-2025)
