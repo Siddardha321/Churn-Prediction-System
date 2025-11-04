@@ -1,34 +1,36 @@
-#  Churn Prediction System
+# Customer Churn Prediction
 
-Machine learning project for predicting **telecom customer churn** using algorithms such as **Random Forest**, **Logistic Regression**, and **SVM**. Included **data preprocessing**, **feature engineering**, and **class imbalance handling** with **SMOTETomek**.  Model performance was optimized using **Optuna-based hyperparameter tuning** and evaluated with **confusion matrix** and **F1-score**.
+The objective of this project is to build a predictive model for Customer Churn using Machine learning techniques. By analyzing historical customer data and identifying churn patterns, the model helps businesses anticipate at-risk customers and implement proactive retention strategies to reduce churn and improve customer lifetime value.
 
----
 
-##  Features
-- Data Cleaning and Preprocessing  
+## Implementation Methods
+- Data Acquisition and Preprocessing.
 - Feature Selection and Engineering  
 - Class Imbalance Handling using SMOTETomek  
 - Model Comparison (Random Forest, Logistic Regression, SVM)  
 - Hyperparameter Tuning with Optuna  
-- Performance Evaluation using Confusion Matrix and F1-Score  
+- Model Evaluation using Confusion Matrix and F1-Score 
 
----
+## Features
+- Comprehensive Data Preprocessing
+- Balanced Dataset
+- Multiple Model Evaluation
+- Automated Hyperparameter Tuning
+- Scalable Workflow
 
-##  Technologies Used
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Imbalanced-learn (SMOTETomek)  
-- Optuna  
-- Matplotlib, Seaborn  
-
----
+## Tech Stack
+- Language: Python
+- Libraries & Tools:
+  - Pandas, Numpy
+  - Matplotlib, Seaborn
+  - Scikit-learn
+  - Imbalance-learn
+  - Optuna
 
 ##  Results
-- **Best-Performing Model:** Random Forest  
-- **Evaluation Metrics:** Confusion Matrix, F1-Score  
-- **Outcome:** Achieved high accuracy and robust churn prediction performance.  
+- Best-Performing Model: Random Forest  
+- Evaluation Metrics: Confusion Matrix, F1-Score  
+- Outcome: Random Forest model demonstrated exceptional performance in predicting customer churn with an Accuracy of 96.1%.
 
----
 Author - Addugula Siddardha <br>
 B.Tech - AI & DS (2021-2025)
