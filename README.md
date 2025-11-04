@@ -4,7 +4,7 @@ The objective of this project is to build a predictive model for Customer Churn 
 
 
 ## Implementation Methods
-- Data Acquisition and Preprocessing.
+- Data Acquisition and Preprocessing
 - Feature Selection and Engineering  
 - Class Imbalance Handling using SMOTETomek  
 - Model Comparison (Random Forest, Logistic Regression, SVM)  
@@ -30,7 +30,7 @@ The objective of this project is to build a predictive model for Customer Churn 
 ##  Results
 - Best-Performing Model: Random Forest  
 - Evaluation Metrics: Confusion Matrix, F1-Score  
-- Outcome: Random Forest model demonstrated exceptional performance in predicting customer churn with an Accuracy of 96.1%.
+- Outcome: Random Forest model demonstrated exceptional performance in predicting customer churn with an Accuracy of 96.1%
 
 Author - Addugula Siddardha <br>
 B.Tech - AI & DS (2021-2025)
