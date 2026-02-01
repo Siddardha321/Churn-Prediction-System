@@ -30,7 +30,7 @@ The objective of this project is to build a predictive model for Customer Churn 
 ##  Results
 - Best-Performing Model: Random Forest  
 - Evaluation Metrics: Confusion Matrix, F1-Score  
-- Outcome: Random Forest model demonstrated exceptional performance in predicting customer churn with an Accuracy of 96.1%
+- Outcome: The system effectively predicted customer churn, providing actionable insights for improving customer retention.
 
 Author - Addugula Siddardha <br>
 B.Tech - AI & DS (2021-2025)
